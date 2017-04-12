@@ -2,7 +2,7 @@
   "name": "tm-marked",
   "description": "A markdown parser and compiler based on marked. Extended for parse and compile sentences and subsentences.",
   "author": "Songfeng Li",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
