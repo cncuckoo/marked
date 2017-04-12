@@ -1,7 +1,8 @@
 # marked
 
-> A full-featured markdown parser and compiler, written in JavaScript. Built
-> for speed.
+A markdown parser and compiler based on [marked](https://www.npmjs.com/package/marked). Extended for parse and compile sentences and subsentences.
+
+> The useage below need to be replaced.
 
 [![NPM version](https://badge.fury.io/js/marked.png)][badge]
 
