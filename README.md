@@ -1,4 +1,4 @@
-# marked
+# zmarked
 
 A markdown parser and compiler based on [marked](https://www.npmjs.com/package/marked). Extended for parse and compile sentences and subsentences.
 
