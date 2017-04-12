@@ -1,5 +1,5 @@
 {
-  "name": "deep-marked",
+  "name": "tm-marked",
   "description": "A markdown parser and compiler based on marked. Extended for parse and compile sentences and subsentences.",
   "author": "Songfeng Li",
   "version": "0.1.0",
